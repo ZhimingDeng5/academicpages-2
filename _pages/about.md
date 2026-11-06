@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Shengkai Yin"
+title: "Dan Zhou"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-PhD, University of Melbourne/Shanghai Jiao Tong University
+PhD Candidate in Education | Sessional Academic | TESOL Teacher Educator & Researcher
+Monash University · Melbourne, Australia
 
 About
 ======
