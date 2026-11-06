@@ -11,6 +11,7 @@ PhD Candidate in Education | Sessional Academic | TESOL Teacher Educator & Resea
 Monash University · Melbourne, Australia
 
 I am a PhD candidate in Education at Monash University and a sessional academic at Monash University and the University of Melbourne, and Swinburne University of Technology. With over 15 years of experience in English language education in China and Australia, my work connects TESOL teaching, teacher education and research. I am particularly interested in teachers’ professional learning, agency and identity, as well as the opportunities and tensions emerging from AI in language education.
+
 About
 ======
 
@@ -20,7 +21,7 @@ I have over 15 years of experience in English language education across China an
 **Research interests**
 TESOL teacher education; teacher professional learning; teacher agency and identity; sociocultural theory and activity theory; AI in language education; multilingual and transnational teacher education.
 
-You can reach me at [dan.zhou1@monash.edu](dan.zhou1@monash.edu) or DM on [Linkedin](https://www.linkedin.com/in/dan-zhou-education/)
+You can reach me at [dan.zhou1@monash.edu](mailto:dan.zhou1@monash.edu) or DM on [Linkedin](https://www.linkedin.com/in/dan-zhou-education/)
   
 Employment
 ======
