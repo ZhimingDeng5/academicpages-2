@@ -1,41 +1,45 @@
 ---
 permalink: /
-title: "Shengkai Yin"
+title: "Dan Zhou"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-PhD, University of Melbourne/Shanghai Jiao Tong University
+PhD Candidate in Education | Sessional Academic | TESOL Teacher Educator & Researcher
+Monash University · Melbourne, Australia
+
+I am a PhD candidate in Education at Monash University and a sessional academic at Monash University and the University of Melbourne, and Swinburne University of Technology. With over 15 years of experience in English language education in China and Australia, my work connects TESOL teaching, teacher education and research. I am particularly interested in teachers’ professional learning, agency and identity, as well as the opportunities and tensions emerging from AI in language education.
 
 About
 ======
 
-I hold dual PhD degrees in educational assessment from the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, literacy education, and critical thinking ability. I have been awarded the 2025 Asian Association for Language Assessment (AALA) Outstanding Dissertation Award. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024, and TOEFL Grant for Doctoral Research in Language Assessment in 2025.  
-  
-You can reach me at [shengkai.yin@outlook.com](mailto:shengkai.yin@outlook.com) or DM me on [LinkedIn](https://www.linkedin.com/in/shengkai-yin/).
+I am a PhD candidate in Education at Monash University. My research examines TESOL teachers’ professional learning and identity, particularly how teachers negotiate institutional expectations, professional aspirations and changing educational contexts. My work draws on sociocultural perspectives and activity theory to understand teachers’ experiences in English language centres and teacher education settings.
+I have over 15 years of experience in English language education across China and Australia. Before moving into university teaching, I taught English for academic purposes and test preparation and led teacher professional development initiatives. I currently teach in the Master of TESOL and Bachelor of Education programs at Monash University and in postgraduate education programs at the University of Melbourne. I also contribute to the Graduate Certificate of Learning and Teaching at Swinburne University of Technology through assessment and feedback. My research focuses on teachers’ professional learning, multilingual education, AI-supported learning and teacher education.
+
+**Research interests：**  
+TESOL teacher education; teacher professional learning; teacher agency and identity; sociocultural theory and activity theory; AI in language education; multilingual and transnational teacher education.
+
+You can reach me at [dan.zhou1@monash.edu](mailto:dan.zhou1@monash.edu) or DM on [Linkedin](https://www.linkedin.com/in/dan-zhou-education/)
   
 Employment
 ======
 
-**Teaching Associate**	2025 - current  
-Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
+**Sessional Academic **	February 2025–present  
+Monash University, Faculty of Education
 
-**Teaching Associate**	2026 - current  
-La Trobe University, School of Education
+**Sessional Academic**	February 2026–present  
+The University of Melbourne, Faculty of Education
 
-**Teaching Associate**	2023 - current  
-The University of Melbourne, School of Languages and Linguistics  
+**Sessional Marker**	October 2025–present  
+Swinburne University of Technology
+
+**Head of Teachers’ Professional Development**	March 2013–January 2025  
+UELITE Education Pty Ltd 
   
-**Research Assistant** (part-time)	2023 - 2025  
-The University of Melbourne, Language Testing Research Center  
-  
-**Lecturer** (T&R, full-time) 	2019 – 2020  
-Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
-  
-**TOEFL Instructor** (part-time)	2017 – 2019  
-New Oriental Educational and Teaching Group, Shanghai, China  
+**TESOL Instructor** (T&R, full-time) 	March 2010–February 2013  
+New Oriental Education & Technology Group, Shanghai  
   
 Awards & Grants
 ======
@@ -113,7 +117,15 @@ Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Lif
 
 C. Conference presentations  
 
-Sun, Q. & **Yin, S.** (2026, March). *Exploring Critical Engagement with GAl in Academic Writing: A Mixed-Methods Study.* The American Educational Research Association (AERC), Los Angeles, United States. Research paper presentation.
+Zhou, D. & **Yin, S.** (2026, October). *Transnational Pre-Service Teachers’ Negotiation of AI Use under Constraints.* Australian Council of TESOL Associations (ACTA) Conference, Sydney, Australia. Research paper presentation.
+
+**Yin, S.** (2026, September). *Assessing Critical Thinking in EAP Speaking: The Development and Validation of a Rating Scale.* The 12th Asian Association for Language Assessment (AALA), Macau, China. Research paper presentation. 
+
+Zhou, D. & **Yin, S.** (2026, July). *Ethical by constraint: Contradictions in transnational pre-service teachers’ use of AI in Australian teacher education.* International Council on Education for Teaching (ICET) Conference, Melbourne, Australia. Research paper presentation.
+
+Zhou, D. & **Yin, S.** (2026, July). *Exploring Critical Engagement with GAl in Academic Writing: A Mixed-Methods Study.* Australian Teacher Education Association (ATEA) Conference, Gold Coast, Australia. Research paper presentation.
+
+Sun, Q. & **Yin, S.** (2026, March). *Ethical practice under constraint in transnational pre-service teachers’ negotiation of AI use.* The American Educational Research Association (AERC), Los Angeles, United States. Research paper presentation.
 
 **Yin, S.** (2025, June). *Expanding construct in EAP speaking assessment: Defining and operationalizing a critical thinking perspective.* The 46th Language Testing Research Colloquium (LTRC), Bankok, Thailand. Research paper presentation.  
 
