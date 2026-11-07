@@ -27,19 +27,19 @@ Employment
 ======
 
 **Sessional Academic**	February 2025–present  
-Monash University, Faculty of Education
+Monash University, Faculty of Education  
 
 **Sessional Academic**	February 2026–present  
-The University of Melbourne, Faculty of Education
+The University of Melbourne, Faculty of Education  
 
 **Sessional Marker**	October 2025–present  
-Swinburne University of Technology
+Swinburne University of Technology  
 
 **Head of Teachers’ Professional Development**	March 2013–January 2025  
-UELITE Education Pty Ltd
+UELITE Education Pty Ltd  
   
 **TESOL Instructor** March 2010–February 2013  
-New Oriental Education & Technology Group, Shanghai
+New Oriental Education & Technology Group, Shanghai  
 
 Awards & Grants
 ======
