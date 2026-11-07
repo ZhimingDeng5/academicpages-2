@@ -18,7 +18,7 @@ About
 I am a PhD candidate in Education at Monash University. My research examines TESOL teachers’ professional learning and identity, particularly how teachers negotiate institutional expectations, professional aspirations and changing educational contexts. My work draws on sociocultural perspectives and activity theory to understand teachers’ experiences in English language centres and teacher education settings.
 I have over 15 years of experience in English language education across China and Australia. Before moving into university teaching, I taught English for academic purposes and test preparation and led teacher professional development initiatives. I currently teach in the Master of TESOL and Bachelor of Education programs at Monash University and in postgraduate education programs at the University of Melbourne. I also contribute to the Graduate Certificate of Learning and Teaching at Swinburne University of Technology through assessment and feedback. My research focuses on teachers’ professional learning, multilingual education, AI-supported learning and teacher education.
 
-**Research interests：**  
+**Research interests:**  
 TESOL teacher education; teacher professional learning; teacher agency and identity; sociocultural theory and activity theory; AI in language education; multilingual and transnational teacher education.
 
 You can reach me at [dan.zhou1@monash.edu](mailto:dan.zhou1@monash.edu) or DM on [Linkedin](https://www.linkedin.com/in/dan-zhou-education/)
@@ -58,22 +58,30 @@ Year: 2025
 Research
 ======
 
-*Publications* 
+**Doctoral research** 
+
+My doctoral research investigates how TESOL teachers in Chinese English language centres experience and sustain professional learning while navigating competing institutional and professional demands. Using sociocultural perspectives and activity theory, I explore contradictions within professional learning activities and their implications for teacher agency, identity and professional growth.
+
+**Research projects and collaborations** 
+
+•	Real-time AI Translation in Higher Education | Research Assistant, Monash University | October–November 2026. Conducted a systematic evidence review on AI translation tools and multilingual students’ learning experiences, and contributed to drafting the research report, including key findings and pedagogical recommendations.
+•	Translanguaging and Multilingual Pedagogies in STEM Higher Education | Research Assistant, University of Melbourne | September 2026–present. Systematic searches and scoping-review screening.
+•	AI-supported English Learning for Adult Migrant Learners in Victoria | Research Assistant, Monash University / VicTESOL research project | May 2026–present. Co-design and evaluation of AI-supported activities in adult EAL settings.
+
+
+**Publications** 
   
 A. Peer-reviewed journal articles  
 
-Tran, H., Zhou, D., **Yin, S.**, & Kong, X. (2026). [Situated lives and human-centred practices in TESOL: Teachers, learners and changing contexts.](https://doi.org/10.21153/tesol2026vol35no1art2439)  *TESOL in Context, 35* (1): 1-9. [SJR, Q3 in Education, Linguistics and Language, SJR: 0.13] 
+**Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2026). [Contradictions as catalysts: An autoethnography of a TESOL teacher's professional learning at an English language centre in China.](https://doi.org/10.21153/tesol2026vol35no1art2337)  *TESOL in Context, 35*(1). * 
 
-Sun, H., & **Yin, S.** (2026). [Beyond retrofitting: validating a purpose-built reading diagnostic assessment through a cognitive diagnostic approach.](https://doi.org/10.3389/fpsyg.2026.1894358)  *Frontiers in Psychology, 17*:1894358, 1-15.  
-[SSCI, Q1 in Psychology, JIF: 3.8] 
+**Zhou, D.** (2026). [When AI speaks too loudly: Rethinking English learning in China's English language centre.](https://doi.org/10.1017/S0261444826101293)  * Language Teaching, 59*(4), 415-421. 
 
-Sun, Q. & **Yin, S.** (2026). [Exploring critical engagement in student-AI interaction for academic writing: A mixed-methods study.](https://doi.org/10.1007/s11528-026-01199-w) *TechTrends*
-[ESCI, Q1 in Education, JIF: 3.7, Official journal of the Association for Educational Communications & Technology]
+Tran, H., **Zhou, D.**, Yin, S., & Kong, X. (2026). [Situated lives and human-centred practices in TESOL: Teachers, learners and changing contexts.](https://doi.org/10.21153/tesol2026vol35no1art2439) *TESOL in Context, 35*(1). 
 
-**Yin, S.** (2026). [Examining critical thinking in EAP speaking assessment: An argument-based validation study.](https://doi.org/10.1016/j.tsc.2026.102253) *Thinking Skills and Creativity*
-[SSCI, Q1 in Education, JIF: 4.7]
+**Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2025). [n-service TESOL teachers' professional learning (2014-2024): A scoping review. ](https://doi.org/10.1002/rev3.70117) *Journal of English for Academic Purposes*(3), e70117.
 
-**Yin, S.**, Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking.](https://doi.org/10.1016/j.jeap.2024.101426)  *Journal of English for Academic Purposes*, 1-14.  
+**Yin, S.**, Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking.](https://doi.org/10.1016/j.jeap.2024.101426)     
 [SSCI, Q1 in Linguistics and Education, JIF: 3.1]  
 
 **Yin, S.**, Guo, K., & Li, D. (2024). [To Assign a Topic or Not: Examining Critical Thinking in English as a Foreign Language Speaking.](https://doi.org/10.1177/00336882231222651) *RELC Journal*, 1-14.  
