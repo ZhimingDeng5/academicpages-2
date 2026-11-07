@@ -51,9 +51,6 @@ Year: 2025
 Teaching Excellence Award — Faculty of Education, Monash University.
 [Christopher Brumfit Essay Prize announcement](https://www.cambridge.org/core/journals/language-teaching/announcements/prizes-and-awards/christopher-brumfit-essay-prize-2025) — Language Teaching / Cambridge University Press.
 
-[TESOL Leadership Mentoring Program Award](https://www.tesol.org/careers/awards-grants-scholarships/the-tesol-leadership-mentoring-program-award/)  
-[Christopher Brumfit Essay Prize announcement](https://www.cambridge.org/core/journals/language-teaching/announcements/prizes-and-awards/christopher-brumfit-essay-prize-2025)  
-
   
 Research
 ======
