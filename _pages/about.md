@@ -64,9 +64,9 @@ My doctoral research investigates how TESOL teachers in Chinese English language
 
 **Research projects and collaborations** 
 
-•	Real-time AI Translation in Higher Education | Research Assistant, Monash University | October–November 2026. Conducted a systematic evidence review on AI translation tools and multilingual students’ learning experiences, and contributed to drafting the research report, including key findings and pedagogical recommendations.
-•	Translanguaging and Multilingual Pedagogies in STEM Higher Education | Research Assistant, University of Melbourne | September 2026–present. Systematic searches and scoping-review screening.
-•	AI-supported English Learning for Adult Migrant Learners in Victoria | Research Assistant, Monash University / VicTESOL research project | May 2026–present. Co-design and evaluation of AI-supported activities in adult EAL settings.
+•	Real-time AI Translation in Higher Education \| Research Assistant, Monash University \| October–November 2026. Conducted a systematic evidence review on AI translation tools and multilingual students’ learning experiences, and contributed to drafting the research report, including key findings and pedagogical recommendations.
+•	Translanguaging and Multilingual Pedagogies in STEM Higher Education \| Research Assistant, University of Melbourne \| September 2026–present. Systematic searches and scoping-review screening.
+•	AI-supported English Learning for Adult Migrant Learners in Victoria \| Research Assistant, Monash University / VicTESOL research project \| May 2026–present. Co-design and evaluation of AI-supported activities in adult EAL settings.
 
 
 **Publications** 
