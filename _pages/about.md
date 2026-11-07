@@ -128,64 +128,63 @@ Teaching
 
 My teaching spans undergraduate teacher education, postgraduate TESOL, research methodology and assessment. I aim to create inclusive, engaging learning environments and provide clear, evidence-informed feedback that supports student development.
 
-**Monash University**
-EDF5638 Linguistically Informed Teaching; 
-EDF5634 Understanding Learning and Language; 
-EDF2064 Assess Teaching and Learning; 
-EDF2063 Planning for Teaching and Learning; 
-EDF4068 Teaching Performance Assessment. 
+**Monash University**  
+EDF5638 Linguistically Informed Teaching;  
+EDF5634 Understanding Learning and Language;  
+EDF2064 Assess Teaching and Learning;  
+EDF2063 Planning for Teaching and Learning;  
+EDF4068 Teaching Performance Assessment.  
 
-Additional marking: 
-MON5750 Monash Innovation Guarantee.
+Additional marking:  
+MON5750 Monash Innovation Guarantee.  
 
-**The University of Melbourne**
-EDUC90989 Disciplined Inquiry Capstone; 
-EDUC90419 Education Research Methodology; 
-EDUC91197 Research Project in Education (Master of TESOL research supervision). 
+**The University of Melbourne**  
+EDUC90989 Disciplined Inquiry Capstone;  
+EDUC90419 Education Research Methodology;  
+EDUC91197 Research Project in Education (Master of TESOL research supervision).  
 
-Additional assessment contributions: 
-EDUC90101 Multilingual Practices in Global Times; 
-EDUC90587 Grammar for Language Teachers; 
-EDUC90929 Education Policy in Context.
+Additional assessment contributions:  
+EDUC90101 Multilingual Practices in Global Times;  
+EDUC90587 Grammar for Language Teachers;  
+EDUC90929 Education Policy in Context.  
 
-**Swinburne University of Technology**
-Assessment and moderation across the following subjects:
-EDU60056 – Foundation of Learning and Teaching
-EDU60057 – Designing and Facilitating Learning Environments
-EDU60058 – Assessing and Evaluating Learning and Teaching
-EDU60059 – Learning and Teaching Project
+**Swinburne University of Technology**  
+Assessment and moderation across the following subjects:  
+EDU60056 – Foundation of Learning and Teaching  
+EDU60057 – Designing and Facilitating Learning Environments  
+EDU60058 – Assessing and Evaluating Learning and Teaching  
+EDU60059 – Learning and Teaching Project  
 
 Supervision 
 ======
-Current: 2 Honours students in Speech Pathology  
-Projects: "Speech Pathologists’ Assessment Practices for Identifying Language Impairments in CALD Students in Victorian Primary Schools"; "Professional development needs for implementing classroom-based augmentative and alternative communication (AAC): perspectives from mainstream Victorian primary school educators and speech pathologists" 
+Master of TESOL research project supervision | The University of Melbourne | EDUC91197 Research Project in Education. I supervise 11 postgraduate students in developing research questions, designing research studies, conducting research and writing a 13,500-word research project in language education.
 
-Service
+Academic Service
 ======
 
-<span class="hanging-indent-title">• Associate Editor – [TESOL in Context](https://ojs.deakin.edu.au/index.php/tesol/index), 2026-2028.  </span>
-<span class="hanging-indent-title">• Interim reviewer and final report evaluator for National Education Examinations Authority – British Council English Assessment Research Grants, 2020-2024.  </span>
-<span class="hanging-indent-title">• Reviewer of the 11th and 12th British Council New Directions in Language Assessment East Asia, July 2023, 2024.  </span>
-<span class="hanging-indent-title">• Ad-hoc Reviewer for Journals: "Thinking Skills and Creativity"; "RELC Journal"; "Journal of Further and Higher Education"; "Frontiers in Psychology"; “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  </span>
-<span class="hanging-indent-title">• Academic contributor to the project “Linking China’s Standards of English Language Ability to College English Test Band 4 and 6”, January 17- February 7, 2021.  </span>
-<span class="hanging-indent-title">• Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  </span>
-<span class="hanging-indent-title">• ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  </span>
-<span class="hanging-indent-title">• AALA (Asian Association for Language Assessment) Student Committee Member, Public Relation Officer  </span>
-<span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Manage operational activities (e.g., engaging student members, encouraging membership, offering on-site support for events)  </span>
-<span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Active participation in discussions and provide feedback on proposed initiatives  </span>
-<span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Edit the In Conversation Series  </span>
-<span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Draft the cover page report for the seventh conference of AALA  </span>
-<span class="hanging-indent-title">• Member in ALTAANZ (Association for Language Testing and Assessment of Australia and New Zealand) Reference Group 2022-2024  </span>
-<span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Help editorial team to enhance the journal, Studies in Language Assessment  </span>
-<span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Support the ALTAANZ Executive Committee  </span>
-<span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Work with the Student Representatives to build a strong ALTAANZ student community  </span>
+**Editorial and peer review**  
+•	[Associate Editor](https://ojs.deakin.edu.au/index.php/tesol/editorialboard) \| TESOL in Context \| 2026–2028.  
+•	[Editorial Board Member](https://www.cambridge.org/core/journals/language-teaching/information/about-this-journal/editorial-board) \| Language Teaching \| 2026–2027.  
+•	Ad hoc journal reviewer \| Teaching and Teacher Education; Australian Educational Researcher; European Journal of Education; Review of Education; TESOL in Context\| 2024–2026.  
+•	Convention proposal reviewer | TESOL International Convention & Expo, Teacher Education Strand | 2026–2027.  
+  
+**Professional leadership and service**  
+•	MERC Leadership Team \| Monash University Faculty of Education \| 2026.  
+•	Student Representative \| Association for Language Testing and Assessment of Australia and New Zealand (ALTAANZ) \| 2025–2026.  
+•	Event Coordinator \| Applied Linguistics Interest Section, TESOL International Association \| 2025–2026.
+•	Planning Committee Member \| Applied Linguistics–Teacher Education Joint Interest Section Panel, TESOL International Association \| 2026–2027.  
+•	Invited Contributor \| TESOL Virtual Convention, Expanding Your TESOL Experience: Awards, Scholarships, and Professional Service \| November 2026.  
+•	Volunteer \| Victorian Council of Deans of Education Conference (2026); Monash Faculty of Education Spring School (2024).  
+  
+**Professional memberships**  
+TESOL International Association; VicTESOL; ALTAANZ; Australian Teacher Education Association (ATEA); Applied Linguistics Association of Australia (ALAA); Australian Association for Research in Education (AARE).  
 
 Blog
 ======
 
-[“The University of Melbourne had a strong presence this year”: SOLL Researchers’ Presentations at LTRC 2024 in Innsbruck, Austria](https://blogs.unimelb.edu.au/soll-talk/2024/08/18/the-university-of-melbourne-had-a-strong-presence-this-year-soll-researchers-presentations-at-ltrc-2024-in-innsbruck-austria/)   
-  
-[Graduate Researcher Series: an interview with Shengkai Yin](https://blogs.unimelb.edu.au/soll-talk/2022/12/18/graduate-researcher-series-an-interview-with-shengkai-yin/)
+•	**Zhou, D**. (2026, 24 April). [Rethinking professional learning for TESOL teachers: What a decade of research reveals. BERA Blog.] (https://www.bera.ac.uk/blog/rethinking-professional-learning-for-tesol-teachers-what-a-decade-of-research-reveals)
+•	**Zhou, D**. (2025, 27 August). [Who gets to be legitimate in the English classroom? A view from the inside. Leveraging Languages.] (https://www.leveraginglanguages.com/post/who-gets-to-be-legitimate-in-the-english-classroom-a-view-from-the-inside)
+
 
 <style type="text/css">
 .hanging-indent {
