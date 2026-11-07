@@ -75,7 +75,7 @@ My doctoral research investigates how TESOL teachers in Chinese English language
 
 **Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2026). [Contradictions as catalysts: An autoethnography of a TESOL teacher's professional learning at an English language centre in China.](https://doi.org/10.21153/tesol2026vol35no1art2337)  *TESOL in Context, 35*(1).
 
-**Zhou, D.** (2026). [When AI speaks too loudly: Rethinking English learning in China's English language centre.](https://doi.org/10.1017/S0261444826101293)  * Language Teaching, 59*(4), 415-421. 
+**Zhou, D.** (2026). [When AI speaks too loudly: Rethinking English learning in China's English language centre.](https://doi.org/10.1017/S0261444826101293)  *Language Teaching, 59*(4), 415-421. 
 
 Tran, H., **Zhou, D.**, Yin, S., & Kong, X. (2026). [Situated lives and human-centred practices in TESOL: Teachers, learners and changing contexts.](https://doi.org/10.21153/tesol2026vol35no1art2439) *TESOL in Context, 35*(1). 
 
@@ -111,7 +111,7 @@ Ouyang, Q., **Zhou, D.**, & Li, X. (2017). Tourism English. China Machine Press.
 
 **Zhou, D.**, Yun, W. Z., & Li, X. (2017). Foreign trade English. China Machine Press.
 
-**D. Conference presentations and invited talks* 
+**D. Conference presentations and invited talks**  
 
 **Zhou, D.**, & Yin, S. (2026, July). *Ethical practice under constraint in transnational pre-service teachers’ negotiation of AI use*. Australian Teacher Education Association (ATEA) Conference, Gold Coast, Australia. Research paper presentation.  
 
@@ -182,7 +182,7 @@ TESOL International Association; VicTESOL; ALTAANZ; Australian Teacher Education
 Blog
 ======
 
-•	**Zhou, D**. (2026, 24 April). [Rethinking professional learning for TESOL teachers: What a decade of research reveals. BERA Blog.] (https://www.bera.ac.uk/blog/rethinking-professional-learning-for-tesol-teachers-what-a-decade-of-research-reveals)
+•	**Zhou, D**. (2026, 24 April). [Rethinking professional learning for TESOL teachers: What a decade of research reveals. BERA Blog.] (https://www.bera.ac.uk/blog/rethinking-professional-learning-for-tesol-teachers-what-a-decade-of-research-reveals)  
 •	**Zhou, D**. (2025, 27 August). [Who gets to be legitimate in the English classroom? A view from the inside. Leveraging Languages.] (https://www.leveraginglanguages.com/post/who-gets-to-be-legitimate-in-the-english-classroom-a-view-from-the-inside)
 
 
