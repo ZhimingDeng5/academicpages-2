@@ -79,7 +79,7 @@ My doctoral research investigates how TESOL teachers in Chinese English language
 
 Tran, H., **Zhou, D.**, Yin, S., & Kong, X. (2026). [Situated lives and human-centred practices in TESOL: Teachers, learners and changing contexts.](https://doi.org/10.21153/tesol2026vol35no1art2439) *TESOL in Context, 35*(1). 
 
-**Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2025). [n-service TESOL teachers' professional learning (2014-2024): A scoping review. ](https://doi.org/10.1002/rev3.70117) *Journal of English for Academic Purposes*(3), e70117. 
+**Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2025). [n-service TESOL teachers' professional learning (2014-2024): A scoping review. ](https://doi.org/10.1002/rev3.70117) *Review of Education, 13*(3), e70117. 
 
 **B. Manuscripts Under Review & In Preparation** 
 
