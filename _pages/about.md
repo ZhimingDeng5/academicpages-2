@@ -182,8 +182,8 @@ TESOL International Association; VicTESOL; ALTAANZ; Australian Teacher Education
 Blog
 ======
 
-•	**Zhou, D**. (2026, 24 April). [Rethinking professional learning for TESOL teachers: What a decade of research reveals. BERA Blog.] (https://www.bera.ac.uk/blog/rethinking-professional-learning-for-tesol-teachers-what-a-decade-of-research-reveals)  
-•	**Zhou, D**. (2025, 27 August). [Who gets to be legitimate in the English classroom? A view from the inside. Leveraging Languages.] (https://www.leveraginglanguages.com/post/who-gets-to-be-legitimate-in-the-english-classroom-a-view-from-the-inside)
+•	**Zhou, D**. (2026, 24 April). [Rethinking professional learning for TESOL teachers: What a decade of research reveals. BERA Blog.](https://www.bera.ac.uk/blog/rethinking-professional-learning-for-tesol-teachers-what-a-decade-of-research-reveals)  
+•	**Zhou, D**. (2025, 27 August). [Who gets to be legitimate in the English classroom? A view from the inside. Leveraging Languages.](https://www.leveraginglanguages.com/post/who-gets-to-be-legitimate-in-the-english-classroom-a-view-from-the-inside)
 
 
 <style type="text/css">
