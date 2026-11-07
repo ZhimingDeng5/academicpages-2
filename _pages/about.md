@@ -19,9 +19,6 @@ You can reach me at [shengkai.yin@outlook.com](mailto:shengkai.yin@outlook.com) 
 Employment
 ======
 
-**Lecturer**	2025 - current  
-Federation University Australia, Institute of Education, Arts, and Community 
-
 **Teaching Associate**	2025 - current  
 Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
 
