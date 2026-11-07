@@ -64,46 +64,30 @@ My doctoral research investigates how TESOL teachers in Chinese English language
 
 **Research projects and collaborations** 
 
-•	Real-time AI Translation in Higher Education \| Research Assistant, Monash University \| October–November 2026. Conducted a systematic evidence review on AI translation tools and multilingual students’ learning experiences, and contributed to drafting the research report, including key findings and pedagogical recommendations.
-•	Translanguaging and Multilingual Pedagogies in STEM Higher Education \| Research Assistant, University of Melbourne \| September 2026–present. Systematic searches and scoping-review screening.
-•	AI-supported English Learning for Adult Migrant Learners in Victoria \| Research Assistant, Monash University / VicTESOL research project \| May 2026–present. Co-design and evaluation of AI-supported activities in adult EAL settings.
+•	Real-time AI Translation in Higher Education \| Research Assistant, Monash University \| October–November 2026. Conducted a systematic evidence review on AI translation tools and multilingual students’ learning experiences, and contributed to drafting the research report, including key findings and pedagogical recommendations.  
+•	Translanguaging and Multilingual Pedagogies in STEM Higher Education \| Research Assistant, University of Melbourne \| September 2026–present. Systematic searches and scoping-review screening.  
+•	AI-supported English Learning for Adult Migrant Learners in Victoria \| Research Assistant, Monash University / VicTESOL research project \| May 2026–present. Co-design and evaluation of AI-supported activities in adult EAL settings.  
 
 
 **Publications** 
   
 A. Peer-reviewed journal articles  
 
-**Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2026). [Contradictions as catalysts: An autoethnography of a TESOL teacher's professional learning at an English language centre in China.](https://doi.org/10.21153/tesol2026vol35no1art2337)  *TESOL in Context, 35*(1). * 
+**Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2026). [Contradictions as catalysts: An autoethnography of a TESOL teacher's professional learning at an English language centre in China.](https://doi.org/10.21153/tesol2026vol35no1art2337)  *TESOL in Context, 35*(1).
 
 **Zhou, D.** (2026). [When AI speaks too loudly: Rethinking English learning in China's English language centre.](https://doi.org/10.1017/S0261444826101293)  * Language Teaching, 59*(4), 415-421. 
 
 Tran, H., **Zhou, D.**, Yin, S., & Kong, X. (2026). [Situated lives and human-centred practices in TESOL: Teachers, learners and changing contexts.](https://doi.org/10.21153/tesol2026vol35no1art2439) *TESOL in Context, 35*(1). 
 
-**Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2025). [n-service TESOL teachers' professional learning (2014-2024): A scoping review. ](https://doi.org/10.1002/rev3.70117) *Journal of English for Academic Purposes*(3), e70117.
+**Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2025). [n-service TESOL teachers' professional learning (2014-2024): A scoping review. ](https://doi.org/10.1002/rev3.70117) *Journal of English for Academic Purposes*(3), e70117. 
 
-**Yin, S.**, Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking.](https://doi.org/10.1016/j.jeap.2024.101426)     
-[SSCI, Q1 in Linguistics and Education, JIF: 3.1]  
+B. Manuscripts Under Review & In Preparation 
 
-**Yin, S.**, Guo, K., & Li, D. (2024). [To Assign a Topic or Not: Examining Critical Thinking in English as a Foreign Language Speaking.](https://doi.org/10.1177/00336882231222651) *RELC Journal*, 1-14.  
-[SSCI, Q1 in Linguistics, JIF: 3.6]  
-  
-Sun, Q., Chen, F., & **Yin, S.** (2023). [The role and features of peer assessment feedback in college English writing.](https://doi.org/10.3389/fpsyg.2022.1070618)  *Frontiers in Psychology, 13*:1070618, 1-16.  
-[SSCI, Q1 in Psychology, JIF: 3.8]  
+**Under Review**
 
-**Yin, S.** & Jin, Y. (2022).[The effect of critical thinking on the performances of integrated speaking assessments.](https://doi.org/10.13458/j.cnki.flatt.004905) *Foreign Languages and Their Teaching, 327* (6): 66-77.  
-[CSSCI-indexed, Top journal in China]  
+**Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (under review). Teacher agency in sustaining professional learning through systemic contradictions: Case studies in China’s English language centres. *Professional Development in Education.*  
 
-**Yin, S.**, Chen, F., & Chang, H. (2022). [Assessment as learning: How does peer assessment function in students’ learning?](https://doi.org/10.3389/fpsyg.2022.912568) *Frontiers in Psychology, 13*: 912568, 1-14.  
-[SSCI, Q1 in Psychology, JIF: 3.8]  
-  
-Sun, H. & **Yin, S.** (2022). [Review of Language Aptitude: Advancing Theory, Testing, Research and Practice.](https://doi.org/10.1016/j.asw.2021.100588) *Assessing Writing, 51* (1)：1-4.  
-[SSCI, Q1 in Linguistics, JIF: 4.2]  
-
-B. Books and book chapters 
-
-**Yin, S.** (upcoming). *Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale.* Peter Lang.  
-
-**Yin, S.**, Yu, C., & Peng, X. (upcoming). Promoting critical thinking in EAP writing classroom: A learning-oriented assessment approach. In T. Thai, & J. Pearson (Eds.), *The changing landscape of EAP assessment: Insights from diverse contexts.* Bloomsbury. 
+**Zhou, D.** (under review). Empowering EAP teachers of Chinese: A narrative inquiry into professional development for Chinese students’ listening instruction in Melbourne. Humanities and Social Sciences Communications. Preprint: [https://doi.org/10.21203/rs.3.rs-6041012/v1] 
 
 Zhou, Z., **Yin, S.** & Yuan.Y. (upcoming). From Difference to Dialogue: Practicing Reflexivity in Collaborative TESOL Research on Linguistic Racism. In S. Yip, & L. Pretorius (Eds.), *Reflexivity in Action: Ethics, Power, and Representation in the Politics of Knowledge Production.* Routledge. 
 
