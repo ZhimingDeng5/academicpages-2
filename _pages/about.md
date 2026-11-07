@@ -18,7 +18,7 @@ About
 I am a PhD candidate in Education at Monash University. My research examines TESOL teachers’ professional learning and identity, particularly how teachers negotiate institutional expectations, professional aspirations and changing educational contexts. My work draws on sociocultural perspectives and activity theory to understand teachers’ experiences in English language centres and teacher education settings.
 I have over 15 years of experience in English language education across China and Australia. Before moving into university teaching, I taught English for academic purposes and test preparation and led teacher professional development initiatives. I currently teach in the Master of TESOL and Bachelor of Education programs at Monash University and in postgraduate education programs at the University of Melbourne. I also contribute to the Graduate Certificate of Learning and Teaching at Swinburne University of Technology through assessment and feedback. My research focuses on teachers’ professional learning, multilingual education, AI-supported learning and teacher education.
 
-**Research interests**
+**Research interests：**  
 TESOL teacher education; teacher professional learning; teacher agency and identity; sociocultural theory and activity theory; AI in language education; multilingual and transnational teacher education.
 
 You can reach me at [dan.zhou1@monash.edu](mailto:dan.zhou1@monash.edu) or DM on [Linkedin](https://www.linkedin.com/in/dan-zhou-education/)
@@ -26,26 +26,20 @@ You can reach me at [dan.zhou1@monash.edu](mailto:dan.zhou1@monash.edu) or DM on
 Employment
 ======
 
-**Lecturer**	2025 - current  
-Federation University Australia, Institute of Education, Arts, and Community 
+**Sessional Academic **	February 2025–present  
+Monash University, Faculty of Education
 
-**Teaching Associate**	2025 - current  
-Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
+**Sessional Academic**	February 2026–present  
+The University of Melbourne, Faculty of Education
 
-**Teaching Associate**	2026 - current  
-La Trobe University, School of Education
+**Sessional Marker**	October 2025–present  
+Swinburne University of Technology
 
-**Teaching Associate**	2023 - current  
-The University of Melbourne, School of Languages and Linguistics  
+**Head of Teachers’ Professional Development**	March 2013–January 2025  
+UELITE Education Pty Ltd 
   
-**Research Assistant** (part-time)	2023 - 2025  
-The University of Melbourne, Language Testing Research Center  
-  
-**Lecturer** (T&R, full-time) 	2019 – 2020  
-Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
-  
-**TOEFL Instructor** (part-time)	2017 – 2019  
-New Oriental Educational and Teaching Group, Shanghai, China  
+**TESOL Instructor** (T&R, full-time) 	March 2010–February 2013  
+New Oriental Education & Technology Group, Shanghai  
   
 Awards & Grants
 ======
