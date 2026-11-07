@@ -43,13 +43,13 @@ New Oriental Education & Technology Group, Shanghai
   
 Awards & Grants
 ======
-Year: 2026
+**Year: 2026**
 
 • [TESOL Leadership Mentoring Program Award](https://www.tesol.org/careers/awards-grants-scholarships/the-tesol-leadership-mentoring-program-award/)  — TESOL International Association.
 
 • Exceptional PhD Student Award — School of Education & Culture, Monash University
 
-Year: 2025  
+**Year: 2025**  
 
 • Teaching Excellence Award — Faculty of Education, Monash University.
 
