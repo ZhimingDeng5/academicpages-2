@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD Candidate in Education | Sessional Academic | TESOL Teacher Educator & Researcher
+PhD Candidate in Education \| Sessional Academic \| TESOL Teacher Educator & Researcher
 Monash University · Melbourne, Australia
 
 I am a PhD candidate in Education at Monash University and a sessional academic at Monash University and the University of Melbourne, and Swinburne University of Technology. With over 15 years of experience in English language education in China and Australia, my work connects TESOL teaching, teacher education and research. I am particularly interested in teachers’ professional learning, agency and identity, as well as the opportunities and tensions emerging from AI in language education.
