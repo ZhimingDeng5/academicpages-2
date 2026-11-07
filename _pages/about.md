@@ -26,7 +26,7 @@ You can reach me at [dan.zhou1@monash.edu](mailto:dan.zhou1@monash.edu) or DM on
 Employment
 ======
 
-**Sessional Academic **	February 2025–present  
+**Sessional Academic**	February 2025–present  
 Monash University, Faculty of Education
 
 **Sessional Academic**	February 2026–present  
@@ -44,29 +44,16 @@ New Oriental Education & Technology Group, Shanghai
 Awards & Grants
 ======
 Year: 2026
-<span class="hanging-indent-title">• Scholarship of Learning and Teaching Grants - Federation University Australia (AUD 1,000) </span>
+<span class="hanging-indent-title">• TESOL Leadership Mentoring Program Award — TESOL International Association.</span>
+<span class="hanging-indent-title">• Exceptional PhD Student Award — School of Education & Culture, Monash University  </span>
 
-Year: 2025 
-<span class="hanging-indent-title">• [**The Asian Association for Language Assessment (AALA) Outstanding Dissertation Award**](https://www.aalawebsite.com/award-winners)  </span>
-<span class="hanging-indent-title">• [**TOEFL Grant for Doctoral Research in Language Assessment**](https://www.ets.org/toefl/grants/recipients.html#accordion-2097530954-item-7588e141f2) (USD 6,000)  </span>
-<span class="hanging-indent-title">• TOEFL/ILTA Student Travel Grant (USD 2,000)  </span>
+Year: 2025  
+<span class="hanging-indent-title">• Teaching Excellence Award — Faculty of Education, Monash University.  </span>
+<span class="hanging-indent-title">• Christopher Brumfit Essay Prize — Language Teaching / Cambridge University Press.  </span>
 
-Year: 2024  
-<span class="hanging-indent-title">• University of Melbourne Research Essential Grant (AUD 5,990)  </span>
-<span class="hanging-indent-title">• TOEFL/ITLA Student Travel Grant (USD 2,500)  </span>
+**TESOL Leadership Mentoring Program Award:** https://www.tesol.org/careers/awards-grants-scholarships/the-tesol-leadership-mentoring-program-award/  
+**Christopher Brumfit Essay Prize announcement:** https://www.cambridge.org/core/journals/language-teaching/announcements/prizes-and-awards/christopher-brumfit-essay-prize-2025  
 
-Year: 2023  
-<span class="hanging-indent-title">• University of Melbourne Graduate Research in Arts Travel Scheme (AUD 1,500)  </span>
-<span class="hanging-indent-title">• Research and Graduate Studies Grant (Languages and Linguistics) (AUD 2,000)  </span>
-<span class="hanging-indent-title">• [**British Council Assessment Research Awards**](https://www.britishcouncil.org/exam/english/aptis/research/grants-and-awards/awards) (GBP 2,500)  </span>
-<span class="hanging-indent-title">• Graduate Researcher Prize Scholarship; Outstanding Student Award; First Prize, Shanghai Jiao Tong University Scholarship (CNY 5,000)  </span>
-
-Year: 2022  
-<span class="hanging-indent-title">• [**Duolingo Dissertation Research Awards in Language Assessment**](https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/&#41) (USD 6,000)  </span>
-
-Year: 2020  
-<span class="hanging-indent-title">• [**Seed Funding of Shanghai Jiao Tong University- The University of Melbourne Joint PhD Program &#40;Fellowship&#41; &#40;WH610160507/047&#41;**](https://research.unimelb.edu.au/strengths/initiatives/international-training-groups/shanghai-melbourne-research-training-group/current-projects/conceptualising-and-operationalising-the-construct-of-critical-thinking-in-speaking) (AUD 20,000)  </span>
-  
 Research
 ======
 
