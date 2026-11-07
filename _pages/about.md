@@ -26,7 +26,7 @@ You can reach me at [dan.zhou1@monash.edu](mailto:dan.zhou1@monash.edu) or DM on
 Employment
 ======
 
-**Sessional Academic **	February 2025–present  
+**Sessional Academic**	February 2025–present  
 Monash University, Faculty of Education
 
 **Sessional Academic**	February 2026–present  
@@ -38,7 +38,7 @@ Swinburne University of Technology
 **Head of Teachers’ Professional Development**	March 2013–January 2025  
 UELITE Education Pty Ltd 
   
-**TESOL Instructor** (T&R, full-time) 	March 2010–February 2013  
+**TESOL Instructor**	March 2010–February 2013  
 New Oriental Education & Technology Group, Shanghai  
   
 Awards & Grants
@@ -51,8 +51,8 @@ Year: 2025
 <span class="hanging-indent-title">• Teaching Excellence Award — Faculty of Education, Monash University.  </span>
 <span class="hanging-indent-title">• Christopher Brumfit Essay Prize — Language Teaching / Cambridge University Press.  </span>
 
-TESOL Leadership Mentoring Program Award: https://www.tesol.org/careers/awards-grants-scholarships/the-tesol-leadership-mentoring-program-award/  
-Christopher Brumfit Essay Prize announcement: https://www.cambridge.org/core/journals/language-teaching/announcements/prizes-and-awards/christopher-brumfit-essay-prize-2025  
+[TESOL Leadership Mentoring Program Award](https://www.tesol.org/careers/awards-grants-scholarships/the-tesol-leadership-mentoring-program-award/)  
+[Christopher Brumfit Essay Prize announcement](https://www.cambridge.org/core/journals/language-teaching/announcements/prizes-and-awards/christopher-brumfit-essay-prize-2025)  
 
   
 Research
