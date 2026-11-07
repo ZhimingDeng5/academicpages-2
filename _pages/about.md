@@ -71,7 +71,7 @@ My doctoral research investigates how TESOL teachers in Chinese English language
 
 **Publications** 
   
-A. Peer-reviewed journal articles  
+**A. Peer-reviewed journal articles**  
 
 **Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2026). [Contradictions as catalysts: An autoethnography of a TESOL teacher's professional learning at an English language centre in China.](https://doi.org/10.21153/tesol2026vol35no1art2337)  *TESOL in Context, 35*(1).
 
@@ -81,74 +81,79 @@ Tran, H., **Zhou, D.**, Yin, S., & Kong, X. (2026). [Situated lives and human-ce
 
 **Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2025). [n-service TESOL teachers' professional learning (2014-2024): A scoping review. ](https://doi.org/10.1002/rev3.70117) *Journal of English for Academic Purposes*(3), e70117. 
 
-B. Manuscripts Under Review & In Preparation 
+**B. Manuscripts Under Review & In Preparation** 
 
-**Under Review**
+**Under Review**  
 
 **Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (under review). Teacher agency in sustaining professional learning through systemic contradictions: Case studies in China’s English language centres. *Professional Development in Education.*  
 
-**Zhou, D.** (under review). Empowering EAP teachers of Chinese: A narrative inquiry into professional development for Chinese students’ listening instruction in Melbourne. Humanities and Social Sciences Communications. Preprint: [https://doi.org/10.21203/rs.3.rs-6041012/v1] 
+**Zhou, D.** (under review). Empowering EAP teachers of Chinese: A narrative inquiry into professional development for Chinese students’ listening instruction in Melbourne. *Humanities and Social Sciences Communications.* Preprint: [https://doi.org/10.21203/rs.3.rs-6041012/v1](https://doi.org/10.21203/rs.3.rs-6041012/v1) 
 
-Zhou, Z., **Yin, S.** & Yuan.Y. (upcoming). From Difference to Dialogue: Practicing Reflexivity in Collaborative TESOL Research on Linguistic Racism. In S. Yip, & L. Pretorius (Eds.), *Reflexivity in Action: Ethics, Power, and Representation in the Politics of Knowledge Production.* Routledge. 
+**Zhou, D.**, Yuan, Y., Yin, S., & Yang, H. (under review). Teaching for tests or teaching for learning? A sociocultural activity theory analysis of TESOL teachers’ contradictions in China’s English language centres. *Asian-Pacific Journal of Second and Foreign Language Education.* Preprint: [https://doi.org/10.21203/rs.3.rs-9764162/v1](https://doi.org/10.21203/rs.3.rs-9764162/v1) 
 
-Zhou, Z. & **Yin, S.** (upcoming). Navigating Pedagogical Contradictions: An Autoethnographic Case Study of Two Chinese Transnational Teacher Educators in Australian Universities. In C. Carvalho., M. Antoun., N. Ciabattie., Y. Ma, & S. Yip (Eds.), *Transnational Teacher Educators in Australia: Lived Experiences, Identities, and Transitions.* Routledge. 
+Ngo, C.-L., **Zhou, D.**, Yin, S., & Li, B. (under review). Generative AI and a crisis of scholarly being among culturally and linguistically diverse early-career academics in Australian institutions: A collaborative autoethnography study. *The Australian Educational Researcher* 
 
-Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Life of Jay Gould, King of the Robber Barons. Shanghai: Shanghai University of Finance and Economics. ISBN: 978-7-5642-3580-2/F· 3580  
+Truong, K. D., Ngo, C.-L., & Zhou, D. (under review). Negotiating demands of AI-assisted language teaching: Perezhivanie and agency in language teachers’ collaborative autoethnography. *International Journal of Applied Linguistics.*  
 
-C. Conference presentations  
+**In Preparation**  
 
-Zhou, D. & **Yin, S.** (2026, October). *Transnational Pre-Service Teachers’ Negotiation of AI Use under Constraints.* Australian Council of TESOL Associations (ACTA) Conference, Sydney, Australia. Research paper presentation.
+**Zhou, D.**, & Yin, S. (in preparation). Ethical by constraint: Contradictions in transnational pre-service teachers’ use of AI in Australian teacher education.
 
-**Yin, S.** (2026, September). *Assessing Critical Thinking in EAP Speaking: The Development and Validation of a Rating Scale.* The 12th Asian Association for Language Assessment (AALA), Macau, China. Research paper presentation. 
+**C. Books and book chapters**  
 
-Zhou, D. & **Yin, S.** (2026, July). *Ethical by constraint: Contradictions in transnational pre-service teachers’ use of AI in Australian teacher education.* International Council on Education for Teaching (ICET) Conference, Melbourne, Australia. Research paper presentation.
+**Zhou, D.**, Yin, S., & Yuan, Y. (in press). From difference to dialogue: Practicing reflexivity in collaborative TESOL research on linguistic racism. In S. Y. Yip & L. Pretorius (Eds.), *Positionality and reflexivity in research*. Springer.
 
-Zhou, D. & **Yin, S.** (2026, July). *Exploring Critical Engagement with GAl in Academic Writing: A Mixed-Methods Study.* Australian Teacher Education Association (ATEA) Conference, Gold Coast, Australia. Research paper presentation.
+**Zhou, D.**, & Yin, S. (under review). Navigating pedagogical contradictions: An autoethnographic case study of two Chinese transnational teacher educators in Australian universities. In C. Carvalho, M. Antoun, N. Ciabatti, Y. Ma, & S. Y. Yip (Eds.), *Transnational teacher educators in Australia: Lived experiences, identities, and transitions*. Routledge. 
 
-Sun, Q. & **Yin, S.** (2026, March). *Ethical practice under constraint in transnational pre-service teachers’ negotiation of AI use.* The American Educational Research Association (AERC), Los Angeles, United States. Research paper presentation.
+**Zhou, D.** (2021). Travelling around the world: Gain a decisive victory of high score in IELTS listening. China Machine Press.
 
-**Yin, S.** (2025, June). *Expanding construct in EAP speaking assessment: Defining and operationalizing a critical thinking perspective.* The 46th Language Testing Research Colloquium (LTRC), Bankok, Thailand. Research paper presentation.  
+Ouyang, Q., **Zhou, D.**, & Li, X. (2017). Tourism English. China Machine Press.
 
-**Yin, S.** (2025, June). *Towards a framework of critical thinking for assessing EAP speaking.* The 46th Language Testing Research Colloquium (LTRC), Bankok, Thailand. Research paper presentation. 
+**Zhou, D.**, Yun, W. Z., & Li, X. (2017). Foreign trade English. China Machine Press.
 
-**Yin, S.** (2024, June). *Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale.* The 45th Language Testing Research Colloquium (LTRC), Innsbruck, Austria. Research paper presentation.  
+**D. Conference presentations and invited talks* 
+
+**Zhou, D.**, & Yin, S. (2026, July). *Ethical practice under constraint in transnational pre-service teachers’ negotiation of AI use*. Australian Teacher Education Association (ATEA) Conference, Gold Coast, Australia. Research paper presentation.  
+
+**Zhou, D.**, Nguyen, M. H., & Dang, T. K. A. (2026, July). *Sustaining professional learning through systemic contradictions: Case studies in China’s English language centres*. International Council on Education for Teaching (ICET) Conference, Melbourne, Australia. Research paper presentation. 
+
+**Zhou, D.**, & Yin, S. (2026, July). *Ethical by constraint: Contradictions in transnational pre-service teachers’ use of AI in Australian teacher education*. International Council on Education for Teaching (ICET) Conference, Melbourne, Australia. Research paper presentation.  
   
-**Yin, S.**, Jin, Y., & Fan, J. (2024, March) *Understanding critical thinking in EAP speaking: Evidence from the CET-SET6.* Academic Forum on English Language Testing in Asia (AFELTA), Singapore. Research paper presentation.  
+**Zhou, D.** (2025, July). *Reorienting second language education: A narrative inquiry into professional learning in Artificial Intelligence for Chinese English teachers in universities*. Australian Teacher Education Association (ATEA) Conference, Perth, Australia. Research paper presentation.  
   
-**Yin, S.** (2023, June). *Assessing critical thinking in EAP speaking: Design and validation of a rating scale.* The 44th Language Testing Research Colloquium (LTRC), New York City, United States. presentation.  
-  
-**Yin, S.** (2022, August). *Assessing critical thinking in EAP speaking: Development and validation of a rating scale.* The 8th Annual International Conference of the Asian Association for Language Assessment (AALA), Chennai, India. poster, slides.  
-  
-Sun, Q., Chen, F. & **Yin, S.** (2022, June). *Understanding diversified evaluation in ESL writing classroom: An insight from effectiveness of peer assessment feedback.* New Direction, British Council, England. Slides.  
-  
-**Yin, S.** (2021, July). *Investigating the Relationships Between Test Takers’ Critical Thinking Ability and Their Performances on Speaking Task：A Case Study of TOEFL Integrated Speaking Task.* The 19th World Congress of Applied Linguistics (AILA), Groningen, the Netherlands. poster, slides.  
-  
-**Yin, S.** (2021, June). *Validating dynamic assessment: an argument-based approach.* The Sixth Conference on Language Testing and Assessment, pp.42. Shanghai, China. paper, slides.  
-  
-**Yin, S.** & Chen, F. (2021, August). *Assessing by peers: How it benefits students’ learning.* The 7th Annual International Conference of the Asian Association for Language Assessment (AALA), Seoul, Korea. paper, slides.  
-  
-**Yin, S.** (2020, June). *On Integrated Speaking Test Performance and its Relation with Critical Thinking: A Case Study of TOEFL Integrated Speaking Task.* The Fifth International Conference on Language Testing and Assessment. Guangzhou, China. paper, slides.  
+**Zhou, D.** (2025, June). *Never too late to start again: Balancing identity, study and life in the PhD journey*. Invited talk at the Faculty of Foreign Languages, Dalat University, Vietnam.  
   
 Teaching
 ======
-Current: 
 
-Federation University Australia, Institute of Education, Arts, and Community (Post Graduate Education)
-**Phonetics, Phonology and Oral Communication, UG (EDBSP1023) and PG (EDMST6113) (course coordination)**, **Academic Reading and Writing in Educational Research (EDMED7058) (course coordination)**, **Applied Psycholinguistics, UG (EDBSP2014) and PG (EDMSP6014)**, and **Language Acquisition (EDBSP1013)**  
+My teaching spans undergraduate teacher education, postgraduate TESOL, research methodology and assessment. I aim to create inclusive, engaging learning environments and provide clear, evidence-informed feedback that supports student development.
 
-Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
-**Assessing teaching and learning (EDF2064)**, **Planning for teaching and learning (EDF2063)**
+**Monash University**
+EDF5638 Linguistically Informed Teaching; 
+EDF5634 Understanding Learning and Language; 
+EDF2064 Assess Teaching and Learning; 
+EDF2063 Planning for Teaching and Learning; 
+EDF4068 Teaching Performance Assessment. 
 
-La Trobe University, School of Education
-**Literacy and numeracy across the curriculum (EDU5023)**, **Integrated curriculum: General capabilities (EDU5024)**
-  
-Previous: 
+Additional marking: 
+MON5750 Monash Innovation Guarantee.
 
-The University of Melbourne, School of Languages and Linguistics  
-**Academic English 1 (ESLA10003)**, **Advanced Self-Editing (ESLA90002)** at undergraduate level and **Language Assessment (LING 9009)** at postgraduate level.
+**The University of Melbourne**
+EDUC90989 Disciplined Inquiry Capstone; 
+EDUC90419 Education Research Methodology; 
+EDUC91197 Research Project in Education (Master of TESOL research supervision). 
 
-Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
-**General Academic English**, **Introduction to Linguistics and Applied Linguistics**, **Second Language Acquisition** and **Language Curriculum, Assessment and Pedagogy** at undergraduate level.  
+Additional assessment contributions: 
+EDUC90101 Multilingual Practices in Global Times; 
+EDUC90587 Grammar for Language Teachers; 
+EDUC90929 Education Policy in Context.
+
+**Swinburne University of Technology**
+Assessment and moderation across the following subjects:
+EDU60056 – Foundation of Learning and Teaching
+EDU60057 – Designing and Facilitating Learning Environments
+EDU60058 – Assessing and Evaluating Learning and Teaching
+EDU60059 – Learning and Teaching Project
 
 Supervision 
 ======
