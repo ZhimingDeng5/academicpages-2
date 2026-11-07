@@ -44,12 +44,12 @@ New Oriental Education & Technology Group, Shanghai
 Awards & Grants
 ======
 Year: 2026
-<span class="hanging-indent-title">• TESOL Leadership Mentoring Program Award — TESOL International Association.</span>
-<span class="hanging-indent-title">• Exceptional PhD Student Award — School of Education & Culture, Monash University  </span>
+• [TESOL Leadership Mentoring Program Award](https://www.tesol.org/careers/awards-grants-scholarships/the-tesol-leadership-mentoring-program-award/)  — TESOL International Association.
+• Exceptional PhD Student Award — School of Education & Culture, Monash University
 
 Year: 2025  
-<span class="hanging-indent-title">• Teaching Excellence Award — Faculty of Education, Monash University.  </span>
-<span class="hanging-indent-title">• Christopher Brumfit Essay Prize — Language Teaching / Cambridge University Press.  </span>
+Teaching Excellence Award — Faculty of Education, Monash University.
+[Christopher Brumfit Essay Prize announcement](https://www.cambridge.org/core/journals/language-teaching/announcements/prizes-and-awards/christopher-brumfit-essay-prize-2025) — Language Teaching / Cambridge University Press.
 
 [TESOL Leadership Mentoring Program Award](https://www.tesol.org/careers/awards-grants-scholarships/the-tesol-leadership-mentoring-program-award/)  
 [Christopher Brumfit Essay Prize announcement](https://www.cambridge.org/core/journals/language-teaching/announcements/prizes-and-awards/christopher-brumfit-essay-prize-2025)  
@@ -93,7 +93,7 @@ Tran, H., **Zhou, D.**, Yin, S., & Kong, X. (2026). [Situated lives and human-ce
 
 Ngo, C.-L., **Zhou, D.**, Yin, S., & Li, B. (under review). Generative AI and a crisis of scholarly being among culturally and linguistically diverse early-career academics in Australian institutions: A collaborative autoethnography study. *The Australian Educational Researcher* 
 
-Truong, K. D., Ngo, C.-L., & Zhou, D. (under review). Negotiating demands of AI-assisted language teaching: Perezhivanie and agency in language teachers’ collaborative autoethnography. *International Journal of Applied Linguistics.*  
+Truong, K. D., Ngo, C.-L., & **Zhou, D.** (under review). Negotiating demands of AI-assisted language teaching: Perezhivanie and agency in language teachers’ collaborative autoethnography. *International Journal of Applied Linguistics.*  
 
 **In Preparation**  
 
@@ -171,9 +171,9 @@ Academic Service
 **Professional leadership and service**  
 •	MERC Leadership Team \| Monash University Faculty of Education \| 2026.  
 •	Student Representative \| Association for Language Testing and Assessment of Australia and New Zealand (ALTAANZ) \| 2025–2026.  
-•	Event Coordinator \| Applied Linguistics Interest Section, TESOL International Association \| 2025–2026.
-•	Planning Committee Member \| Applied Linguistics–Teacher Education Joint Interest Section Panel, TESOL International Association \| 2026–2027.  
-•	Invited Contributor \| TESOL Virtual Convention, Expanding Your TESOL Experience: Awards, Scholarships, and Professional Service \| November 2026.  
+•	Event Coordinator \| Applied Linguistics Interest Section, TESOL International Association \| 2025–2026.  
+•	Planning Committee Member \| Applied Linguistics–Teacher Education Joint Interest Section Panel, TESOL International Association \| 2026–2027.   
+•	Invited Contributor \| TESOL Virtual Convention, Expanding Your TESOL Experience: Awards, Scholarships, and Professional Service \| November 2026.   
 •	Volunteer \| Victorian Council of Deans of Education Conference (2026); Monash Faculty of Education Spring School (2024).  
   
 **Professional memberships**  
