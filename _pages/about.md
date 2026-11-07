@@ -36,10 +36,10 @@ The University of Melbourne, Faculty of Education
 Swinburne University of Technology
 
 **Head of Teachers’ Professional Development**	March 2013–January 2025  
-UELITE Education Pty Ltd 
+UELITE Education Pty Ltd
   
-**TESOL Instructor** (T&R, full-time) 	March 2010–February 2013  
-New Oriental Education & Technology Group, Shanghai  
+**TESOL Instructor** March 2010–February 2013  
+New Oriental Education & Technology Group, Shanghai
 
 Awards & Grants
 ======
